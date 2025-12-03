@@ -6,6 +6,8 @@
 
 ---
 
+![Screenshot 1](screenshots/1.png)
+
 ## Table of Contents
 
 - [Features](#features)
@@ -24,8 +26,6 @@
 - **Gold Coins Reminder:** Set a timer to get notified when it's time to collect your gold coins.
 - **AFK Countdown:** Track inactivity and receive alerts if you've been idle too long.
 - **Customizable Timers:** Enter your preferred duration (up to 2 hours) for each timer.
-- **Silent Execution:** Compiles to an EXE with no console output.
-- **Easter Egg:** Click the XP icon 13 times to trigger a hidden surprise.
 - **Visual & Audio Alerts:** Popups with sound notifications.
 - **Cross-functional UI:** Clean WPF interface with background image, shadows, and modern buttons.
 - **Safe to Use:** Does not require administrator privileges and does **not interfere with Fortnite** or any other program—it only shows reminders.
@@ -62,6 +62,8 @@ C:\Yafar\
 2. Enter your desired minutes for **Gold XP Coins** and **AFK timers**.
 3. Click the **Start Coins Timer** or **Start AFK Timer** buttons.
 4. Popups will notify you when timers reach zero.
+
+![Screenshot 2](screenshots/2.png)
 
 > ⚠️ Reminder: YAFAR is a safe reminder tool. It does **not interfere with Fortnite** Easy Anti-Cheat, or any other programs. It simply alerts you to move and collect coins.
 
