@@ -67,6 +67,36 @@ C:\Yafar\
 
 > ⚠️ Reminder: YAFAR is a safe reminder tool. It does **not interfere with Fortnite** Easy Anti-Cheat, or any other programs. It simply alerts you to move and collect coins.
 
+## ⚠️ Antivirus & False Positives
+
+Some antivirus engines may flag **Yafar.exe** as suspicious.  
+This is a **false positive**.
+
+YAFAR is built from a simple PowerShell script (`Yafar.ps1`) using **ps2exe**, a common method that many heuristic-based antivirus scanners misinterpret as malicious because:
+
+- It is a script converted into an executable  
+- It shows popups and plays sounds  
+- It uses idle detection and timers  
+- It is not digitally signed  
+- It is a small custom tool not recognized by reputation databases  
+
+**YAFAR does *not* contain any malicious code.**  
+If you don’t trust the provided executable, you can compile it yourself.
+
+### 🔧 Compile it yourself (optional)
+
+If you want to generate your own EXE:
+
+1. Download the original script: `Yafar.ps1`
+2. Install **ps2exe**:  
+   ```powershell
+   Install-Module ps2exe
+Compile the tool manually:
+```powershell`
+ps2exe Yafar.ps1 Yafar.exe -noConsole```
+
+This will create the exact same executable that the project ships in the Releases section.
+
 ---
 
 ## Requirements
