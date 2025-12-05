@@ -9,11 +9,14 @@
 ![Screenshot 1](screenshots/1.png)
 
 <details>
-<summary>📸 View Fortnite screenshot with Yafar.exe</summary>
+  <summary>📸 View Fortnite screenshot with Yafar.exe</summary>
 
-![Screenshot 1](screenshots/3.png)
+  <br>
+
+  <img src="screenshots/3.png" alt="Screenshot 3" width="100%">
 
 </details>
+
 ## Table of Contents
 
 - [Features](#features)
