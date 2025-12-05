@@ -8,6 +8,12 @@
 
 ![Screenshot 1](screenshots/1.png)
 
+<details>
+<summary>📸 View Fortnite screenshot with Yafar.exe</summary>
+
+![Screenshot 1](screenshots/3.png)
+
+</details>
 ## Table of Contents
 
 - [Features](#features)
